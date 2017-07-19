@@ -1,0 +1,7 @@
+REGEDIT4
+
+[-HKEY_CURRENT_USER\Software\Citrix\GoToAssist Express Customer]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Citrix\GoToManage]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Citrix\GoToAssist Express Customer]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Citrix\GoToManage]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Citrix\GoToAssist Express Customer]
